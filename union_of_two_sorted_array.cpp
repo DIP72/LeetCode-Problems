@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> sortedArray(vector<int> a, vector<int> b){
+vector<int> sortedArray(vector<int> &a, vector<int> &b){
     int n1 = a.size();
     int n2 = b.size();
     int i = 0, j = 0;
