@@ -17,5 +17,17 @@ vector<int> sortedArray(vector<int> &a, vector<int> &b){
                 unionArray.push_back(b[j]);
             j++;
         }
+
+        if(i < n1){
+            if(unionArray.size() == 0 || unionArray.back() != a[i])
+                unionArray.push_back(a[i]);
+            i++;
+        }
+
+        if(j < n2){
+            if(unionArray.size() == 0 || unionArray.back() != b[j])
+                unionArray.push_back(b[j]);
+            j++;
+        }
     }
 }
