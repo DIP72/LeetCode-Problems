@@ -48,6 +48,31 @@ Node *addOne(Node *head)
     }
     if(carry)
         prev->next = new Node(carry);
-        
+
     return reverseLL(newHead);
 }
+
+
+// another approach using recursion
+
+int addHelper(Node *temp){
+    if(temp == NULL) return 1;
+    int carry = addHelper(temp->next);
+    temp->data += carry;
+    if(temp->data < 10) return 0;
+    temp->data = 0;
+    return 1;
+}
+
+
+Node *addOne(Node *head)
+{
+    int carry = addHelper(head);
+    if(carry == 1){
+        Node *nnode = new Node(1);
+        nnode->next = head;
+        head = nnode;
+    }
+    return head;
+}
+
