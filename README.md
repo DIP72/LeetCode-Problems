@@ -33,6 +33,7 @@ Practice DSA Daily
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/DIP72/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/DIP72/LeetCode-Problems/tree/main/0057-insert-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/DIP72/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/DIP72/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
