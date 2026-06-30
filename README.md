@@ -34,6 +34,7 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/DIP72/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/DIP72/LeetCode-Problems/tree/main/0057-insert-interval/) | Medium |
@@ -52,6 +53,7 @@ Practice DSA Daily
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@ Practice DSA Daily
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DIP72/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
