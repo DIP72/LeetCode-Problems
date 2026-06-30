@@ -9,6 +9,7 @@ Practice DSA Daily
 | [0073-set-matrix-zeroes](https://github.com/DIP72/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/DIP72/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DIP72/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/DIP72/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/DIP72/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -45,6 +46,7 @@ Practice DSA Daily
 | [0135-candy](https://github.com/DIP72/LeetCode-Problems/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/DIP72/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0860-lemonade-change](https://github.com/DIP72/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/DIP72/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -62,6 +64,7 @@ Practice DSA Daily
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DIP72/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
