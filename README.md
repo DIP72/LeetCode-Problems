@@ -40,6 +40,7 @@ Practice DSA Daily
 | [0001-two-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DIP72/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0045-jump-game-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DIP72/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
@@ -83,6 +84,7 @@ Practice DSA Daily
 | ------- | ------- |
 | [0015-3sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DIP72/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DIP72/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
