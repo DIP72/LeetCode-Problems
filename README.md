@@ -5,6 +5,7 @@ Practice DSA Daily
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DIP72/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DIP72/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/DIP72/LeetCode-Problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -35,6 +36,7 @@ Practice DSA Daily
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0045-jump-game-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DIP72/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
