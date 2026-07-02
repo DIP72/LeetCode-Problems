@@ -21,6 +21,7 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DIP72/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/DIP72/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/DIP72/LeetCode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DIP72/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -127,6 +128,7 @@ Practice DSA Daily
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DIP72/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
