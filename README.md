@@ -63,6 +63,7 @@ Practice DSA Daily
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DIP72/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DIP72/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -102,6 +103,7 @@ Practice DSA Daily
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/DIP72/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ Practice DSA Daily
 | [0088-merge-sorted-array](https://github.com/DIP72/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
