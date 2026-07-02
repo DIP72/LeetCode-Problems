@@ -67,6 +67,7 @@ Practice DSA Daily
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Practice DSA Daily
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,8 +158,18 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
