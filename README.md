@@ -128,6 +128,7 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -182,8 +183,10 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
