@@ -161,6 +161,7 @@ Practice DSA Daily
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/DIP72/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
