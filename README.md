@@ -131,6 +131,7 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DIP72/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/DIP72/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -190,6 +191,7 @@ Practice DSA Daily
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/DIP72/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DIP72/LeetCode-Problems/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DIP72/LeetCode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
