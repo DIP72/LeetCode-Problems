@@ -20,10 +20,8 @@ public:
             TreeNode *temp = st1.top();
             st1.pop();
             st2.push(temp);
-            if(temp->left)
-                st1.push(temp->left);
-            if(temp->right)
-                st1.push(temp->right);
+            if(temp->left) st1.push(temp->left);
+            if(temp->right) st1.push(temp->right);
         }
         while(!st2.empty()){
             ans.push_back(st2.top()->val);
