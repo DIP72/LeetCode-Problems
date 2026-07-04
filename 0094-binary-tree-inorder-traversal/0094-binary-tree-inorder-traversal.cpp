@@ -16,21 +16,21 @@ public:
         TreeNode *temp = root;
         vector<int> ans; 
         stack<TreeNode*> st;
+        st.push(root);
 
-        while(true){
+        while(!st.empty()){
             if(temp != nullptr){
                 st.push(temp);
                 temp = temp->left;
             }
-            else{
-                if(st.empty()) break;
+            else {
                 temp = st.top();
                 st.pop();
                 ans.push_back(temp->val);
                 temp = temp->right;
             }
         }
+        ans.pop_back();
         return ans;
-
     }
 };
