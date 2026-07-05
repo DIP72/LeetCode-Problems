@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+//      using two stack
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
