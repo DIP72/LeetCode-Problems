@@ -64,6 +64,7 @@ Practice DSA Daily
 | [0904-fruit-into-baskets](https://github.com/DIP72/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DIP72/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -130,6 +131,7 @@ Practice DSA Daily
 | [0055-jump-game](https://github.com/DIP72/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Stack
@@ -157,6 +159,7 @@ Practice DSA Daily
 | [0054-spiral-matrix](https://github.com/DIP72/LeetCode-Problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DIP72/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
