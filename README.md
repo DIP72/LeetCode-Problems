@@ -187,6 +187,7 @@ Practice DSA Daily
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DIP72/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -237,12 +238,14 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
