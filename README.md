@@ -134,6 +134,7 @@ Practice DSA Daily
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/DIP72/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -239,6 +240,7 @@ Practice DSA Daily
 | [0094-binary-tree-inorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -250,6 +252,7 @@ Practice DSA Daily
 | [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -260,6 +263,7 @@ Practice DSA Daily
 | [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
