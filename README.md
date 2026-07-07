@@ -76,6 +76,7 @@ Practice DSA Daily
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/DIP72/LeetCode-Problems/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ Practice DSA Daily
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/DIP72/LeetCode-Problems/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Practice DSA Daily
 | [0059-spiral-matrix-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DIP72/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/DIP72/LeetCode-Problems/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/DIP72/LeetCode-Problems/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
