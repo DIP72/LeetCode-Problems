@@ -13,6 +13,7 @@ class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> ans;
+        if(root == nullptr) return ans;
         map<int, map<int, multiset<int>>> mpp;
         queue<pair<TreeNode*, pair<int, int>>> q;
         q.push({root, {0, 0}});
