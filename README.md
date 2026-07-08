@@ -17,6 +17,7 @@ Practice DSA Daily
 | [0560-subarray-sum-equals-k](https://github.com/DIP72/LeetCode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/DIP72/LeetCode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DIP72/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/DIP72/LeetCode-Problems/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -127,6 +128,7 @@ Practice DSA Daily
 | [0088-merge-sorted-array](https://github.com/DIP72/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -200,6 +202,7 @@ Practice DSA Daily
 | [0102-binary-tree-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DIP72/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -250,6 +253,7 @@ Practice DSA Daily
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DIP72/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -264,6 +268,7 @@ Practice DSA Daily
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +282,7 @@ Practice DSA Daily
 | [0144-binary-tree-preorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DIP72/LeetCode-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
