@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <iostream>
+#include <stack>
+#include <vector>
+#include <string>
+using namespace std;
 
 int priority(char ch){
 	if(ch == '^') return 3;
@@ -40,4 +45,13 @@ string infixToPostfix(string exp){
 		st.pop();
 	}
 	return postfix;
+}
+
+int main(){
+	string exp = "a+b*c-(e^f+g)";
+	reverse(exp.begin(), exp.end());
+	string newStr =  infixToPostfix(exp);
+	reverse(newStr.begin(), newStr.end());
+	cout << newStr;
+	return 0;
 }
