@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -13,6 +14,7 @@ class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> ans;
+        // map<column, map<row, node_values>>
         map<int, map<int, multiset<int>>> mpp;
         queue<pair<TreeNode*, pair<int, int>>> q;
         q.push({root, {0, 0}});
