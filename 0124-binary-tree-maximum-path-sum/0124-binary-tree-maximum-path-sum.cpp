@@ -10,18 +10,19 @@
  * };
  */
 class Solution {
-public:
-    int maxPathDown(TreeNode *root, int &maxi){
-        if(root == nullptr) return 0;
-        int lh = max(0, maxPathDown(root->left, maxi));
-        int rh = max(0, maxPathDown(root->right, maxi));
-        maxi = max(maxi, root->val + lh + rh);
+private:
+    int maxPath(TreeNode *root, int &maxx){
+        if(!root) return 0;
+        int lh = max(0, maxPath(root->left, maxx));
+        int rh = max(0, maxPath(root->right, maxx));
+        maxx = max(maxx, root->val + lh + rh);
         return max(lh, rh) + root->val;
     }
-
+    
+public:
     int maxPathSum(TreeNode* root) {
-        int maxi = INT_MIN;
-        maxPathDown(root, maxi);
-        return maxi;
+        int maxx = INT_MIN;
+        maxPath(root, maxx);
+        return maxx;
     }
 };
