@@ -21,5 +21,3 @@ public:
         return lca_from_left ? lca_from_left : lca_from_right;
     }
 };
-
-// 看別人的 好聰明！
