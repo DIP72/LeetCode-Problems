@@ -81,6 +81,7 @@ Practice DSA Daily
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/DIP72/LeetCode-Problems/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Practice DSA Daily
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DIP72/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Practice DSA Daily
 | [0860-lemonade-change](https://github.com/DIP72/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ Practice DSA Daily
 | [1288-remove-covered-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +150,7 @@ Practice DSA Daily
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Stack
@@ -201,6 +206,7 @@ Practice DSA Daily
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -228,6 +234,7 @@ Practice DSA Daily
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DIP72/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -321,4 +328,8 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
