@@ -19,6 +19,7 @@ Practice DSA Daily
 | [0930-binary-subarrays-with-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DIP72/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/DIP72/LeetCode-Problems/tree/main/1995-count-special-quadruplets/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -70,6 +71,7 @@ Practice DSA Daily
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DIP72/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/DIP72/LeetCode-Problems/tree/main/1995-count-special-quadruplets/) | Easy |
@@ -138,6 +140,7 @@ Practice DSA Daily
 | [0455-assign-cookies](https://github.com/DIP72/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DIP72/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
