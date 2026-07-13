@@ -326,6 +326,7 @@ Practice DSA Daily
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/DIP72/LeetCode-Problems/tree/main/1291-sequential-digits/) | Medium |
 | [1995-count-special-quadruplets](https://github.com/DIP72/LeetCode-Problems/tree/main/1995-count-special-quadruplets/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
