@@ -81,6 +81,7 @@ Practice DSA Daily
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DIP72/LeetCode-Problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DIP72/LeetCode-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/DIP72/LeetCode-Problems/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -91,6 +92,7 @@ Practice DSA Daily
 | [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -153,6 +155,7 @@ Practice DSA Daily
 | [0435-non-overlapping-intervals](https://github.com/DIP72/LeetCode-Problems/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DIP72/LeetCode-Problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/DIP72/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DIP72/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -340,4 +343,8 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
