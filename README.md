@@ -93,6 +93,7 @@ Practice DSA Daily
 | [0523-continuous-subarray-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DIP72/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DIP72/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DIP72/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -347,4 +348,5 @@ Practice DSA Daily
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/DIP72/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
