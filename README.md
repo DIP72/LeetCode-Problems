@@ -75,6 +75,7 @@ Practice DSA Daily
 | [1331-rank-transform-of-an-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DIP72/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DIP72/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/DIP72/LeetCode-Problems/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DIP72/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DIP72/LeetCode-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -95,6 +96,7 @@ Practice DSA Daily
 | [0048-rotate-image](https://github.com/DIP72/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/DIP72/LeetCode-Problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/DIP72/LeetCode-Problems/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/DIP72/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DIP72/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -357,6 +359,7 @@ Practice DSA Daily
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DIP72/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/DIP72/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DIP72/LeetCode-Problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DIP72/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
